@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="grid-card">
+    <div class="card" *ngFor="let employee of employees">
+      <img [src]="employee.foto" alt="">
+      <div class="employee-data">
+        <h2>{{employee.nome}}</h2>
+        <p>{{employee.cargo}}</p>
+      </div>
+    </div>
+  </div>
+</div>

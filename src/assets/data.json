@@ -1,0 +1,33 @@
+[
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Pedro",
+        "cargo": "Enfermeiro"
+    },
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Julia",
+        "cargo": "Médico"
+    },
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Lucas",
+        "cargo": "Professor"
+    },
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Maria",
+        "cargo": "Programador"
+    },
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Rafael",
+        "cargo": "Designer"
+    },
+    {
+        "foto": "https://via.placeholder.com/150",
+        "nome": "Yasmin",
+        "cargo": "Gerente"
+    }
+    
+]
